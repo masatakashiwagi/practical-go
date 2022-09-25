@@ -1,2 +1,2 @@
-# practical-golang
-This repository is for learning golang.
+# practical-go
+This repository is for learning go.
